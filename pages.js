@@ -4,7 +4,7 @@ const repoURL = "https://github.com/stevanovicc/filip-stevanovic-portfolio.git";
 
 ghpages.publish(
     pathname, {
-        branch: "master",
+        branch: "main",
         repo: repoURL,
     },
     (err) => {
