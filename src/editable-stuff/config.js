@@ -28,7 +28,7 @@ const about = {
     imageLink: require("../editable-stuff/profilepicture.jpeg"),
     imageSize: 375,
     message: "Motivated and detail-oriented junior web developer with a strong foundation in coding and problem-solving. Proficient in HTML, CSS, JavaScript, and modern frameworks such as React.js. Experienced in building responsive, user-friendly web interfaces and dynamic applications. Familiar with backend technologies like Node.js and programming languages including Java, enhancing my ability to collaborate across the full stack. Passionate about creating clean, efficient code and continuously learning to improve development skills.",
-    resume: "https://drive.google.com/file/d/1A4_faf8BshCpdA4RbageXW2OKi7pyAvB/view?usp=drive_link",
+    resume: "https://drive.google.com/file/d/1A4_faf8BshCpdA4RbageXW2OKi7pyAvB/view?usp=sharing",
 };
 
 // PROJECTS SECTION
